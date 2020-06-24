@@ -25,7 +25,7 @@ R.R.k school, CBSE 2008
 
 Educational Project - Contact Me Here - 
 
-### [Digitally learn](https://digitallylearn.com/) 
+### [Digitally learn | UPSC - IAS](https://digitallylearn.com/) 
 
-‘Thanking you and looking forward to an opportunity to work with your esteemed Organization ’.
+Thanking you and looking forward to an opportunity to work with your esteemed Organization.
 
