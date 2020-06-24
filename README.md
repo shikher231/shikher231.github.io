@@ -1,37 +1,31 @@
-## Prime Minister’s Roles, Functions and Powers
+#Short Resume 
 
-You can use the [editor on GitHub](https://github.com/shikher231/shikher231.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Eligibility
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Objective: To make a sound position in corporate world and work enthusiastically in team to achieve goal of the organization with devotion and hard work.
+Academic Profile:
 
-### Markdown
+###Technical Skills and Basic knowledge of Software:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Search engine optimization (SEO)
+2. Growth Hacking or Digital Marketing
+3. HTML, CSS and JavaScript
+4. MS Office, Windows and Photoshop
+5. Wordpress and all other types of CMS
 
-```markdown
-Syntax highlighted code block
+###Personnel Details:
 
-# Header 1
-## Header 2
-### Header 3
+Marital Status Single
+Nationality Indian
+Languages Known English & Hindi
 
-- Bulleted
-- List
+Shikher Goyal Exam. / Degree Institution Board / University Year
+M.C.A Dehradun Institute of technology DIT 2021 
+B.C.A Teerthanker mahaveer university (T.M.U) T.M.U 2013 
+12th R.R.K school, CBSE 2010 10th
+R.R.k school, CBSE 2008
 
-1. Numbered
-2. List
+Educational Project - Contact Me Here - [Digitally learn](https://digitallylearn.com/) 
 
-**Bold** and _Italic_ and `Code` text
+‘Thanking you and looking forward to an opportunity to work with your esteemed Organization ’.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shikher231/shikher231.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
