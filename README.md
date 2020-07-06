@@ -11,19 +11,11 @@ Academic Profile:
 4. MS Office, Windows and Photoshop
 5. Wordpress and all other types of CMS
 
-### Personnel Details:
-
-Marital Status Single
-Nationality Indian
-Languages Known English & Hindi
-
-Shikher Goyal Exam. / Degree Institution Board / University Year
-M.C.A Dehradun Institute of technology DIT 2021 
-B.C.A Teerthanker mahaveer university (T.M.U) T.M.U 2013 
-12th R.R.K school, CBSE 2010 10th
-R.R.k school, CBSE 2008
+### Improving Lives Through Learning
 
 Educational Project - Contact Me Here - 
+
+Digitally Learn is an educational technology Website. Started in 2017, it is a platform that offers online educational news and media. Digitally learn educators consist of either students who have cleared various exams or mentors who have teaching experience.
 
 ### [Digitally learn | UPSC - IAS](https://digitallylearn.com/) 
 
