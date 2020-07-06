@@ -1,4 +1,4 @@
-# Short Resume 
+# Short Introduction 
 
 Objective: To make a sound position in corporate world and work enthusiastically in team to achieve goal of the organization with devotion and hard work.
 Academic Profile:
