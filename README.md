@@ -3,14 +3,14 @@ The Civil Services Examination is a nationwide competitive examination in India 
 
 The Civil Services of India runs the entire administration of the country. The elected ministers of India lay down the policies required to properly run the administrative machinery, which is then carried out by the civil servants in various central government agencies.
 
-## Civil services eligibility
+### Civil services eligibility
 Eligibility Criteria for IAS 2020: Age Limit & Attempts
 General	- 32 Years
 Other Backwards Castes (OBC) - 35 years (3 year relaxation)
 Economically Weaker Section (EWS) -	32 Years (No relaxation)
 Scheduled Caste/Scheduled Tribe (SC/ST)	- 37 years (5 year relaxation)
 
-## Civil services posts
+### Civil services posts
 The CSE is conducted by the Union Public Service Commission (UPSC) for recruitment to the various civil services in the Government of India. The most prominent of these civil services include the Indian Administrative Service (IAS), Indian Forest Service (IFS), Indian Police Service (IPS) and Indian Revenue Service (IRS) among others.
 
 Indian Administrative Service (IAS) was formerly known as the Imperial Civil Service (ICS) is the Civil Services Examination and one of the toughest competitive. The Indian Administrative Service is the administrative arm of the All India Services. Considered the premier civil service of India, the IAS is one of the three arms of the All India Services along with the Indian Police Service and the Indian Forest Service. 
